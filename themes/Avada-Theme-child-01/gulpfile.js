@@ -9,7 +9,7 @@ var livereload=require('gulp-livereload');
 gulp.task('css', function(){
   return gulp.src('css/scss/main.scss')
           .pipe(plumber())
-          .pipe(sass({sourcemap: true, sourcemapPath: 'scss/'}))
+          /*.pipe(sass({sourcemap: true, sourcemapPath: 'scss/'}))*/
           .pipe(gulp.dest('css/'))
           .pipe(livereload());
           

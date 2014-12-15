@@ -1,13 +1,15 @@
 body {
-  padding: 20px; }
-
+  padding: 20px;
+}
 div {
-  background: red; }
-
+  background: blue;
+}
 .asd {
-  padding: 2px; }
-
+  padding: 2px;
+}
 img[src="http://theme-fusion.com/avadaxml/wp-content/uploads/2013/02/logo2x.png"] {
-  border: 3px solid blue; }
-
-/*# sourceMappingURL=main.css.map */
+  border: 3px solid blue;
+}
+.asd {
+  /*# sourceMappingURL=main.css.map */
+}
