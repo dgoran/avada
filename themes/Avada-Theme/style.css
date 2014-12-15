@@ -10,6 +10,7 @@ Text Domain: Avada
 .group {
   zoom: 1;
 }
+
 .group:before,
 .group:after {
   content: " ";
