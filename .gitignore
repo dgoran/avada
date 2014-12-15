@@ -1,0 +1,3 @@
+plugins/wp-sync-db-master/*
+.sass-cache/*
+allow-devtools-edit
