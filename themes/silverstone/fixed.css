@@ -1,0 +1,101 @@
+.responsive-container{
+	max-width:1200px;
+	margin:0 auto;
+}
+.site-branding{
+	width:40%;
+	margin:0 5% 0 0;	
+	text-align:left;
+}
+.main-navigation .tinynav{
+	display:none;	
+}
+#main-nav { display: block }
+.main-navigation {
+	clear:none;
+	float: left;
+	width: 55%;
+}
+.content-area{
+	width:100%;
+	margin:5% 0 5% 0;
+}
+.widget-area{
+	width:30%;
+	margin:5% 0 5% 0;
+}
+.paging-navigation .nav-previous{
+	float: left;
+	width: 45%;
+	padding:0 0 0 5%;
+}
+.paging-navigation .nav-previous a{
+	margin:0;
+	display:inline-block;
+}
+.paging-navigation .nav-next{
+	float: right;
+	text-align: right;
+	width: 45%;
+	padding:0 5% 0 0;
+}
+.paging-navigation .nav-next a{
+	margin:0;
+	display:inline-block;
+}
+.site-main .post-navigation {
+	background: rgba(0, 0, 0, 0.15);
+}
+.post-navigation .nav-previous{
+	float: left;
+	width: 50%;
+	background:none;
+	margin:0;
+}
+.post-navigation .nav-previous a{
+	margin:0.6em 0 0 0;
+}
+.post-navigation .nav-next {
+	float: left;
+	text-align: right;
+	width: 50%;
+	background:none;
+	margin:0;
+}
+.post-navigation .nav-next a{
+	margin:0.6em 0 0 0;
+}
+.comment-navigation .nav-previous{
+	float: left;
+	width: 45%;	
+	padding:0;
+}
+.comment-navigation .nav-previous a{
+	margin:0;
+	display:inline-block;
+}
+
+.comment-navigation .nav-next{
+	float: right;
+	text-align: right;
+	width: 45%;	
+	padding:0;
+}
+.comment-navigation .nav-next a{
+	margin:0;
+	display:inline-block;
+}
+.frontpage-welcome h1{
+	font-size:48px;
+	font-size:4.8rem;
+}
+.frontpage-products-item{
+	float:left;
+	width:30.33%;	
+	margin:0 1.5% 3% 1.5%;
+}
+.footer-widget{
+    margin: 2% 2.5%;
+    width: 20%;
+}
+
