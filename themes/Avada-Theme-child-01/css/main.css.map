@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "mappings": "AAAA,IAAI;EACJ,OAAO,EAAC,IAAI;;ACAZ,GAAG;EACH,UAAU,EAAC,GAAG;;AAEd,IAAI;EACJ,OAAO,EAAC,GAAG;;AAEX,iFAAiF;EACjF,MAAM,EAAC,cAAc",
+  "sources": [
+    "scss/F:%5CWEB%20DIZAJN%5Cwamp%5Cwww%5Cavada%5Cwp-content%5Cthemes%5CAvada-Theme-child-01%5Ccss%5Cscss%5Cinclude.scss",
+    "scss/main.scss"
+  ],
+  "names": [],
+  "file": "main.css"
+}

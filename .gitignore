@@ -1,3 +1,7 @@
 plugins/wp-sync-db-master/*
+themes/Avada-Theme-child-01/node_modules/*
+themes/Avada-Theme/node_modules/*
+themes/Avada-Themes/node_modules/*
+themes/Avada-Themes/css/node_modules/*
 .sass-cache/*
 allow-devtools-edit
