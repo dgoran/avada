@@ -1,5 +1,6 @@
 {
   "devDependencies": {
-    "gulp": "^3.8.10"
+    "gulp": "^3.8.10",
+    "gulp-compass": "^2.0.3"
   }
 }

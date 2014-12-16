@@ -1,12 +1,14 @@
 @import 'include';
+@import 'compass';
 div{
-background:red;
+background:orange;
+@include border-radius(50px);
 }
 .asd{
 padding:2px;
 }
 img[src="http://theme-fusion.com/avadaxml/wp-content/uploads/2013/02/logo2x.png"]{
-border:3px solid blue;
+@include border-radius(20px);
 }
 
 .sourceMappingURLl{}

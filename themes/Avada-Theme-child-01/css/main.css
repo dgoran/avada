@@ -1,15 +1,26 @@
+/* line 1, scss/_include.scss */
 body {
   padding: 30px;
 }
+
+/* line 3, scss/main.scss */
 div {
-  background: red;
+  background: orange;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
 }
+
+/* line 7, scss/main.scss */
 .asd {
   padding: 2px;
 }
+
+/* line 10, scss/main.scss */
 img[src="http://theme-fusion.com/avadaxml/wp-content/uploads/2013/02/logo2x.png"] {
-  border: 3px solid blue;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
 }
-.sourceMappingURLl {
-  /*# sourceMappingURL=main.css.map */
-}
+
+/*# sourceMappingURL=main.css.map */
